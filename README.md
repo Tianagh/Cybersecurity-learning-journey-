@@ -15,5 +15,5 @@ I am a Computer Science student with a growing interest in cybersecurity. I am c
 - Explore ethical hacking techniques
 - Build practical cybersecurity projects
 
-## Contact
-Email: your student email
+## Contact 
+Email: christinamartey587@gmail.com 
